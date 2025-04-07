@@ -121,4 +121,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 
 For technical support or collaboration inquiries, please reach out to:
 
-**Divya** – [your-email@example.com](mailto:your-email@example.com) --> -->
+**Divya** – [your-email@example.com](mailto:your-email@example.com) -->
