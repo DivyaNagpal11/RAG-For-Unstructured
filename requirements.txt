@@ -1,0 +1,14 @@
+python-dotenv
+pypdf
+langchain
+langchain_community
+chromadb
+gradio
+zipfile36
+openpyxl
+selenium
+pdf2image
+unstructured[all-docs]
+fpdf
+ragas
+langgraph
