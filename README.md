@@ -1,7 +1,7 @@
 # 📚 RAG for Unstructured Data
 
 ## 🧠 Project Overview
-**RAG for Unstructured Data** is a Retrieval-Augmented Generation (RAG) system tailored to handle unstructured enterprise data (e.g., PDF, Excel, HTML). By combining powerful retrieval mechanisms with large language models (LLMs), this project enables accurate, context-aware responses and document understanding at scale.
+**RAG for Unstructured Data** is a Retrieval-Augmented Generation (RAG) system tailored to handle unstructured data (e.g., PDF, Excel, HTML). By combining powerful retrieval mechanisms with large language models (LLMs), this project enables accurate, context-aware responses and document understanding at scale.
 
 ---
 
